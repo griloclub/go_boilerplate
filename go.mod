@@ -1,7 +1,7 @@
 module github.com/diegoclair/go_boilerplate
 
 go 1.23.5
-
+//oi
 require (
 	github.com/DATA-DOG/go-sqlmock v1.5.2
 	github.com/GuiaBolso/darwin v0.0.0-20191218124601-fd6d2aa3d244
